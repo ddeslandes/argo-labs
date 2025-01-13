@@ -7,4 +7,4 @@ resources:
 images:
 - name: schoolofdevops/vote
   newName: dpdesi/vote
-  newTag: 17fe96f
+  newTag: v6
